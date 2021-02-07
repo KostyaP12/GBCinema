@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GBCinema</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="top_films">Top Films</string>
+</resources>
